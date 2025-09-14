@@ -1,5 +1,11 @@
 # 💫 About Me:
-I m currently learning React.js.
+👋 Hi, I’m Gracia Sharon Jopson  
+I’m passionate about building efficient and impactful solutions through code.  
+- 💻 Skilled in Python, C, MySQL, and PHP  
+- 🌱 Currently exploring Artificial Intelligence and Cloud Computing  
+- 📂 Projects focus on web development using HTML, CSS, PHP, MySQL, and React.js  
+- 🤝 Open to collaboration on open-source and innovative projects  
+
 
 
 ## 🌐 Socials:
